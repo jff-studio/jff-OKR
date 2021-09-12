@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/jff-studio/jff-okr-frontend
+	url = https://github.com/jff-studio/jff-okr-backend
 	branch = master
 [submodule "frontend"]
 	path = frontend
